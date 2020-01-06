@@ -1,4 +1,5 @@
 Object: Predict telco customer churn
+
 Method and Models: 
   1. Impute missing value with mean, median, or the value from the previous row, depends on column's distribution
   2. Transform text and categorical attributes to proper value
